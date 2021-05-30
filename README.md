@@ -6,9 +6,9 @@ Project name:   Het Rijksmuseum Museum
 Description:    Display a view of images of an artist present in the Rijksmuseum  by fetching information from that API.
 
 Installation: 
-               --- npm install
                
-               --- npm start 
+               1. npm install 
+               2. npm start 
                
 Features Included/Bonus:
 
