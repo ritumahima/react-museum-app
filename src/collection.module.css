@@ -1,0 +1,25 @@
+
+
+.image{
+    max-width:100%;
+    max-height:100%;
+    object-fit: cover;
+    margin-left: 20px;
+    margin-right: auto;
+    display: flex;
+    transition: transform .5s;
+    height:764px;
+  }
+
+.image:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);
+    transform: scale(1.5);
+  }
+
+
+  @media screen and (max-width: 700px) {
+    image {width: 200px}
+    }
+
+  
+
