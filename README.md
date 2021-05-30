@@ -3,7 +3,7 @@ museum-app
 
 Project name:   Het Rijksmuseum Museum
 
-Description:    Display a view of images of an artist present in the Rijksmuseum  by fetching information from that API.
+Description:    Display a view of images of an artist present in the Rijksmuseum  by fetching information from the API.
 
 Installation: 
                
